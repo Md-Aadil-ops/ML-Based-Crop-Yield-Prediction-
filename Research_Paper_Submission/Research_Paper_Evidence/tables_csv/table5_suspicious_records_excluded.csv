@@ -1,0 +1,4 @@
+Year,Region,Crop,Season,Temperature,Rainfall,Humidity,Soil Type,pH,Nitrogen,Phosphorus,Potassium,Fertilizer,Pesticide,Yield,State,District,temp_src,rain_src,pest_src
+2007,"Muzaffarpur, Bihar",Chickpea,Rabi,25.23,2624.8,62.5,Inceptisols,6.8,111.64,25.1,8.61,145.34,0.16,58363.64,Bihar,Muzaffarpur,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2007,"Saharsa, Bihar",Chickpea,Rabi,24.97,1346.1,65.0,Inceptisols,6.8,48.88,10.6,8.94,68.42,0.16,32000.0,Bihar,Saharsa,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2009,"Dhanbad, Jharkhand",Pigeonpea,Kharif,25.05,999.6,61.6,Mollisols,7.2,13.52,4.69,0.77,18.98,0.17,12402.6,Jharkhand,Dhanbad,NASA_POWER,ICRISAT_gauge,FAOSTAT_India

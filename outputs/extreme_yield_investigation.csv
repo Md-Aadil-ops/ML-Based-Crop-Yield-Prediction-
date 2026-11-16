@@ -1,0 +1,30 @@
+Year,Region,Crop,Season,Temperature,Rainfall,Humidity,Soil Type,pH,Nitrogen,Phosphorus,Potassium,Fertilizer,Pesticide,Yield,State,District,temp_src,rain_src,pest_src
+2007,"Muzaffarpur, Bihar",Chickpea,Rabi,25.23,2624.8,62.5,Inceptisols,6.8,111.64,25.1,8.61,145.34,0.16,58363.64,Bihar,Muzaffarpur,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2007,"Saharsa, Bihar",Chickpea,Rabi,24.97,1346.1,65.0,Inceptisols,6.8,48.88,10.6,8.94,68.42,0.16,32000.0,Bihar,Saharsa,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2009,"Dhanbad, Jharkhand",Pigeonpea,Kharif,25.05,999.6,61.6,Mollisols,7.2,13.52,4.69,0.77,18.98,0.17,12402.6,Jharkhand,Dhanbad,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2016,"Tumkur, Karnataka",Cotton,Kharif,25.13,526.0,58.8,Alfisols,6.2,39.53,22.89,8.43,70.84,0.24,2328.41,Karnataka,Tumkur,NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Bolangir, Odisha",Cotton,Kharif,26.75,1154.2,61.2,Alfisols,7.01,30.37,17.11,10.34,57.81,0.24,2841.43,Odisha,Bolangir,NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Bolangir, Odisha",Cotton,Kharif,26.65,1216.3,61.1,Alfisols,7.01,34.09,12.19,7.12,53.4,0.24,2820.48,Odisha,Bolangir,NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Ganjam, Odisha",Cotton,Kharif,27.35,1219.9,72.0,Alfisols,6.92,40.17,6.86,4.48,51.51,0.24,2382.22,Odisha,Ganjam,NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Ganjam, Odisha",Cotton,Kharif,27.08,1574.2,74.0,Alfisols,6.92,43.43,10.79,5.95,60.17,0.24,2857.74,Odisha,Ganjam,NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Kalahandi, Odisha",Cotton,Kharif,24.7,1355.1,65.8,Mollisols,6.9,28.06,10.87,4.86,43.79,0.24,2832.89,Odisha,Kalahandi,NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Kalahandi, Odisha",Cotton,Kharif,24.66,1446.4,65.6,Mollisols,6.9,31.44,13.43,6.5,51.37,0.24,2829.52,Odisha,Kalahandi,NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Koraput, Odisha",Cotton,Kharif,24.16,1698.4,67.2,Alfisols,6.2,41.35,15.41,8.21,64.97,0.24,2795.32,Odisha,Koraput,NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Koraput, Odisha",Cotton,Kharif,24.03,1800.7,67.5,Alfisols,6.2,47.74,16.26,8.6,72.6,0.24,2823.74,Odisha,Koraput,NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Phulbani(Kandhamal), Odisha",Cotton,Kharif,25.33,1190.7,66.6,Alfisols,6.7,18.83,8.74,3.35,30.92,0.24,2271.6,Odisha,Phulbani(Kandhamal),NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Phulbani(Kandhamal), Odisha",Cotton,Kharif,25.25,1420.8,67.5,Alfisols,6.7,16.24,5.58,2.89,24.71,0.24,2786.52,Odisha,Phulbani(Kandhamal),NASA_POWER,NASA_POWER,FAOSTAT_India
+2016,"Sambalpur, Odisha",Cotton,Kharif,26.83,1154.2,60.7,Mollisols,7.2,38.94,21.2,8.91,69.05,0.24,2569.15,Odisha,Sambalpur,NASA_POWER,NASA_POWER,FAOSTAT_India
+2017,"Sambalpur, Odisha",Cotton,Kharif,26.81,1311.2,60.7,Mollisols,7.2,63.87,29.47,15.13,108.47,0.24,2568.97,Odisha,Sambalpur,NASA_POWER,NASA_POWER,FAOSTAT_India
+2014,"East Godavari, AndhraPradesh",Soybean,Kharif,27.72,635.7,74.2,Aridisols,7.37,146.65,48.89,41.42,236.97,0.24,3000.0,AndhraPradesh,East Godavari,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2014,"Guntur, AndhraPradesh",Soybean,Kharif,27.8,681.4,61.9,Aridisols,7.4,192.63,81.16,25.16,298.95,0.24,2854.46,AndhraPradesh,Guntur,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+1985,"Vadodara Baroda, Gujarat",Soybean,Kharif,27.98,627.7,43.0,Vertisols,7.69,67.24,8.95,2.14,78.32,0.44,3000.0,Gujarat,Vadodara Baroda,NASA_POWER,ICRISAT_gauge,FAOSTAT_India_backfilled
+2002,"Jalgaon, Maharashtra",Soybean,Kharif,27.39,769.3,46.2,Vertisols,7.67,53.1,21.71,15.95,90.76,0.25,2529.41,Maharashtra,Jalgaon,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2010,"Kolhapur, Maharashtra",Soybean,Kharif,25.05,1263.8,69.3,Vertisols,7.7,143.8,87.35,78.56,309.71,0.24,2786.99,Maharashtra,Kolhapur,NASA_POWER,NASA_POWER,FAOSTAT_India
+2011,"Kolhapur, Maharashtra",Soybean,Kharif,24.57,1132.3,64.9,Vertisols,7.7,114.79,62.63,42.44,219.86,0.24,2543.92,Maharashtra,Kolhapur,NASA_POWER,NASA_POWER,FAOSTAT_India
+2012,"Kolhapur, Maharashtra",Soybean,Kharif,24.97,1618.9,62.0,Vertisols,7.7,106.81,44.59,40.29,191.69,0.24,2601.63,Maharashtra,Kolhapur,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2003,"Pune, Maharashtra",Soybean,Kharif,24.54,541.4,62.5,Vertisols,7.67,40.97,20.36,9.96,71.29,0.24,3333.33,Maharashtra,Pune,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2004,"Pune, Maharashtra",Soybean,Kharif,23.77,972.5,65.7,Vertisols,7.67,56.36,26.06,13.93,96.35,0.21,3000.0,Maharashtra,Pune,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2013,"Pune, Maharashtra",Soybean,Kharif,23.62,1106.4,68.7,Vertisols,7.67,85.42,42.62,29.27,157.31,0.24,3884.06,Maharashtra,Pune,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2015,"Pune, Maharashtra",Soybean,Kharif,23.97,803.9,66.9,Vertisols,7.67,75.56,42.82,25.31,143.69,0.24,2919.25,Maharashtra,Pune,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2000,"Sangli, Maharashtra",Soybean,Kharif,25.4,509.8,55.0,Vertisols,7.65,54.54,26.43,24.21,105.18,0.26,2638.84,Maharashtra,Sangli,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
+2012,"Nainital, Uttarakhand",Soybean,Kharif,17.85,1605.2,55.9,Inceptisols,6.8,259.84,47.63,15.09,322.56,0.24,2697.44,Uttarakhand,Nainital,NASA_POWER,ICRISAT_gauge,FAOSTAT_India
